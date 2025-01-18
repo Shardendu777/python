@@ -1,2 +1,3 @@
 # python
-is this repo ,my python codes and their outputs will be uploaded
+it contains my python notes
+
